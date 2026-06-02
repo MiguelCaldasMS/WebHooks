@@ -1,0 +1,16 @@
+{
+  "name": "WhatsApp WebHook",
+  "version": "1.0.0",
+  "description": "Express WhatsApp WebHook on Render",
+  "main": "app.js",
+  "repository": "https://github.com/MiguelCaldasMS/WebHooks",
+  "author": "WhatsApp Developers",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}

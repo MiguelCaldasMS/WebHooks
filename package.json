@@ -1,5 +1,5 @@
 {
-  "name": "WhatsApp WebHook",
+  "name": "whatsapp-webhook",
   "version": "1.0.0",
   "description": "Express WhatsApp WebHook on Render",
   "main": "app.js",
